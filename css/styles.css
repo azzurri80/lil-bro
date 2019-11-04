@@ -16,3 +16,13 @@ h1 {
 body {
   background-color: #cc6600;
 }
+
+img {
+  float: inherit;
+  margin: 5;
+  padding: 5px;
+}
+
+li {
+  font-size: 30px;
+}
